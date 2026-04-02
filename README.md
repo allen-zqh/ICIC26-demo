@@ -1,6 +1,6 @@
-# SIGIR26 (Demo Repository)
+# ICIC26 (Demo Repository)
 
-This repository provides a **minimal, review-stage demo** for our SIGIR 2026 short-paper submission:
+This repository provides a **minimal, review-stage demo** for our ICIC 2026 submission:
 
 **“Spectral Drift Monitoring of Contextual Embeddings for Multi-Sense Semantic Change”**
 
